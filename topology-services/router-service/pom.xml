@@ -52,11 +52,11 @@
         </dependency>
         <dependency>
             <groupId>com.example</groupId>
-            <artifactId>system-jpa</artifactId>
+            <artifactId>system-rest</artifactId>
         </dependency>
         <dependency>
             <groupId>com.example</groupId>
-            <artifactId>system-rest</artifactId>
+            <artifactId>system-data</artifactId>
         </dependency>
     </dependencies>
 
